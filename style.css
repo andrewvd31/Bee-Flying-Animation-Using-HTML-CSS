@@ -1,12 +1,18 @@
+/*imp! CSS RESET */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/*imp! BODY RESET */
+
 body{
     background-color: rgb(63, 191, 234);
 }
+
+/*imp! BEE CSS PROPERTIES */
 
 .container{
     width: 500px;
